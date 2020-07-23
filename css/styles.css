@@ -11,8 +11,12 @@ body {
     font-size: 20px;
 }
 .fa{
-    padding: 5px;
+    padding: 4px;
 }
 .icon {
     margin-top: 20px;
+}
+.row {
+    width: 100%;
+    padding: 20px;
 }
